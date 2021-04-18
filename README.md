@@ -1,6 +1,6 @@
 # 0. server's functions
 
-| function | VM | ipaddress | clusterIP | container's port |
+| function | VM | ExposedIP | clusterIP | container's port |
 | --- | --- | --- | --- | --- |
 | nginx-test | minikube | 192.168.99.103 | 10.244.0.2 | 80 | 
 | mongo-test | minikube-m03 | N/A | 10.244.2.2 | 27017 | 
